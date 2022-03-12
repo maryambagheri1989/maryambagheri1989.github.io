@@ -74,7 +74,7 @@ module.exports = {
        // snippetVersion : 6
     },
     themeConfig: {
-        default: 'light',
+        default: 'Emerald',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
